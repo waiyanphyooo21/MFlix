@@ -469,7 +469,7 @@ input ~ .checked-radio-bg {
   margin: auto;
   font-size: var(--fs-sm);
   font-weight: var(--fw-5);
-  border-radius: 15px;
+  border-radius: 35px;
   color: var(--white);
 }
 
